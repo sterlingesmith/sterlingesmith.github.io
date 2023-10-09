@@ -1,5 +1,5 @@
 ---
-title:  "Using Transfer Learning to Classify Images with Keras"
+title:  "Global Women's Health"
 date:   2017-04-08 11:39:23
 categories: [keras] 
 tags: [keras, classification, transfer-learning]
