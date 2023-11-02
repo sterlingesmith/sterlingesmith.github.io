@@ -1,7 +1,7 @@
 ---
 title:  "Global Women's Health"
 date:   2017-04-08 11:39:23
-categories: [keras] 
+categories: [women's health] 
 tags: [keras, classification, transfer-learning]
 ---
 
