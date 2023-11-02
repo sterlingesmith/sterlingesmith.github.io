@@ -42,7 +42,7 @@ The pre-trained InceptionV3 architecture is stored in the variable `base_model`.
 model = Model(inputs=base_model.input, outputs=base_model.get_layer('avg_pool').output)
 ```
 
-This new model will no longer return a predicted image class, since the classification layer has been removed; however, the CNN now stored in `model` still provides us with a useful way to extract features from images.  By passing each of the CIFAR-10 images through this model, we can convert each image from its 32x32x3 array of raw image pixels to a vector with 2048 entries.  In practice, we refer to this dataset of 2048-dimensional points as InceptionV3 bottleneck features.  
+ new model will no longer return a predicted image class, since the classification layer has been removed; however, the CNN now stored in `model` still provides us with a useful way to extract features from images.  By passing each of the CIFAR-10 images through this model, we can convert each image from its 32x32x3 array of raw image pixels to a vector with 2048 entries.  In practice, we refer to this dataset of 2048-dimensional points as InceptionV3 bottleneck features.  
 
 #### Using t-SNE to Visualize Bottleneck Features
 
