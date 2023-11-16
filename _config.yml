@@ -1,5 +1,5 @@
 # Site settings
-title: Alexis Cook
+title: Sterling Smith
 description: 'Deep Learning Professional'
 url: 'https://alexisbcook.github.io'
 baseurl: ''
@@ -7,7 +7,7 @@ google_analytics: 'UA-83225772-1'
 disqus_shortname: 'alexisbcook-github-io'
 
 author:
-  name: 'Alexis Cook'
+  name: 'Sterling Smith'
   email: alexis.cook@gmail.com
   twitter_username: alexis_b_cook
   facebook_username: alexis.cook
