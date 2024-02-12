@@ -5,7 +5,7 @@ categories: [women's health]
 tags: [keras, classification, transfer-learning]
 ---
 
-In this blog post, I will detail my [repository](https://github.com/alexisbcook/keras_transfer_cifar10) that performs object classification with transfer learning.  This blog post is inspired by a [Medium post](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366) that made use of Tensorflow.  The code is written in Keras (version 2.0.2) and Python 3.5.  
+Maternal Mortality, by race and age in the US, 2018. The number of deaths per 100,000 live births is higher for Black mothers in every age range, showing a clear disparity (of what) between the Black and White communities in this country. The rate of maternal mortality for Black mothers over the age of 40 is significantly higher than any other group of mothers, which also shows ... (what). These disparities are a symptom of a much larger problem in the US: lack of access to proper healthcare in minority communities. (could then show graphic of something showing healthcare access / quality among diff racial groups in US to prove point). 
 
 If you need to learn more about CNNs, I recommend reading the notes for the [CS231n](http://cs231n.github.io/convolutional-networks/) course at Stanford.  All lectures are also available [online](https://www.youtube.com/watch?v=LxfUGhug-iQ&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=7).  You are also encouraged to check out Term 2 of Udacity's [Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889), where you can find a comprehensive introduction to neural networks (NNs), CNNs (including transfer learning), and recurrent neural networks (RNNs).
 
