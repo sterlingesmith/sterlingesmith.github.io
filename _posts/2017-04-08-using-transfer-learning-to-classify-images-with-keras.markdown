@@ -1,8 +1,9 @@
 ---
 title:  "Global Women's Health"
-date:   2017-04-08 11:39:23
+[book logo](/least-github-pages/assets/graphic1.jpg)
+date:   
 categories: [women's health] 
-tags: [keras, classification, transfer-learning]
+tags: 
 ---
 
 Maternal Mortality, by race and age in the US, 2018. The number of deaths per 100,000 live births is higher for Black mothers in every age range, showing a clear disparity (of what) between the Black and White communities in this country. The rate of maternal mortality for Black mothers over the age of 40 is significantly higher than any other group of mothers, which also shows ... (what). These disparities are a symptom of a much larger problem in the US: lack of access to proper healthcare in minority communities. (could then show graphic of something showing healthcare access / quality among diff racial groups in US to prove point). 
